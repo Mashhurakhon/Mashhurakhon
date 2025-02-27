@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mashhurakhon;
 - 👀 I’m interested in WEB-programming;
-- 🌱 I’m currently learning JS, PHP, SQL languages and generally "creating websites".
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me...
 
